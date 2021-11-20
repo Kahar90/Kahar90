@@ -1,6 +1,5 @@
--Nabil Alkahar
--Freshman at Universiti Teknologi Malaysia
--19
--Freelance Flutter Mobile App Developer
+ Nabil Alkahar
+ Sophomore at Universiti Teknologi Malaysia
+ Freelance Flutter Mobile App Developer
 
 
