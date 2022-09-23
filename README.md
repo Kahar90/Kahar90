@@ -1,4 +1,4 @@
  Nabil Alkahar,
- Sophomore at Universiti Teknologi Malaysia
+ Junior at Universiti Teknologi Malaysia
 
 
